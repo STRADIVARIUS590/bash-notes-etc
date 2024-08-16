@@ -1,3 +1,1 @@
- 
-
-        #docker container run -it -w /var/lib -v ${pwd}:/scripts/var/lib bash:5.1.16;;
+ #docker container run -it -w /var/lib -v ${pwd}:/var/lib bash:5.1.16;;
